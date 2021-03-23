@@ -7309,9 +7309,11 @@
             <speaker>ADELHEID.</speaker>
             <p>Frei! Wenn du nicht mehr zitternd auf deinen Zehen zu mir schleichen wirst – nicht
               mehr ich ängstlich zu dir sage: Brich auf, Franz, der Morgen kommt!</p>
-            <stage>Heilbronn, vorm Turn.</stage>
-            <stage>Elisabeth. Lerse.</stage>
           </sp>
+        </div>
+        <div type="scene">
+          <head>Heilbronn, vorm Turn.</head>
+          <stage>Elisabeth. Lerse.</stage>
           <sp who="#lerse">
             <speaker>LERSE.</speaker>
             <p>Gott nehm das Elend von Euch, gnädige Frau. Marie ist hier.</p>
